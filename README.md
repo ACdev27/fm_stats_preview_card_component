@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/stats-preview-card-component-flexbox-css-variables-QdR99Q_to)
+- Live Site URL: [Live site URL here](https://eager-pasteur-8546c7.netlify.app/)
 
 ## My process
 
