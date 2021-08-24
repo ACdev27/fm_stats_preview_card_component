@@ -80,7 +80,7 @@ body {
 .stats {
   display: flex;
   justify-content: flex-start;
-  margin-top: 18%;;
+  margin-top: 18%;
 }
 .stats div {
   margin-right: 15%;
