@@ -53,8 +53,8 @@ body {
   color: var(--accent);
 }
 .card-text {
-  flex-basis: 555px;
-  padding: 6.5rem 8%;
+  flex-basis: 575px;
+  padding: 6.5rem 6.5%;
 }
 .card-image {
   flex-basis: 555px;
@@ -76,6 +76,7 @@ body {
   font-weight: 400;
   color: var(--paragraph-color);
   line-height: 1.7;
+  margin-right: 7%;
 }
 .stats {
   display: flex;
@@ -83,7 +84,7 @@ body {
   margin-top: 18%;
 }
 .stats div {
-  margin-right: 15%;
+  margin-right: 17%;
 }
 .stats div:nth-child(3) {
   margin-right: 0;
@@ -106,6 +107,12 @@ footer {
   margin-top: 50px;
 }
 
+@media only screen and (max-width: 900px) {
+  .stats div {
+    margin-right: 16.5%;
+  }
+}
+
 @media only screen and (max-width: 757px) {
   main {
     height: auto;
@@ -123,6 +130,9 @@ footer {
   .card h1 {
     font-size: 2.8rem;
     margin-bottom: 6.5%;
+  }
+  .card-text p { 
+    margin-right: 0;
   }
   .stats {
     display: flex;
